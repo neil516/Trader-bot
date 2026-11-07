@@ -1,0 +1,2 @@
+# Trader-bot
+Neils trader
